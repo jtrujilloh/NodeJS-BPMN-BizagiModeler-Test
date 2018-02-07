@@ -90,41 +90,57 @@
 * ### Estructura de Directorios y Descripción de Componentes:
   
   lo siguiente, explica cómo se compone la estructura de directorios del proyecto, y para qué sirve cada componente.
-    
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-Root.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-Root.JPG">
+</p>
         
   * ./Bizagi Models/: 
     * Procesos de Negocio - Ejemplos - v1.0.0.bpm: Archivo creado con Bizagi Modeler.
-    
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-01.JPG</center>
-    
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-02.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-01.JPG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-02.JPG">
+</p>
     
   * ./BPM.Test/: Contiene el proyecto, ejecutables, modelos de procesos y controladores de cada modelo.
     * Start.ExampleBPM1.js: Ejecutable para el proceso del ejemplo 1.
     * Start.ExampleBPM2.js: Ejecutable para el proceso del ejemplo 2.
     * Start.ExampleBPM3.js: Ejecutable para el proceso del ejemplo 3.
-    
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test.JPG">
+</p>
     
   * ./BPM.Test/Test.Bpm.Process/: Contiene los modelos de los distintos procesos de negocio y su controlador correspondiente a cada modelo.
 
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test-Test.Bpm.Process.JPG</center>
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test-Test.Bpm.Process.JPG">
+</p>
     
-    * exampleBPM1.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 1
-    * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 1.
+  * exampleBPM1.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 1
+  * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 1.
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JP">
+</p>
     
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JPG</center>
+  * exampleBPM2.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 2
+  * exampleBPM2.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 2.
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG">
+</p>
     
-    * exampleBPM2.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 2
-    * exampleBPM2.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 2.
-    
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG</center>
-    
-    * exampleBPM3.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 3
-    * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 3.
-    
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG</center>
+  * exampleBPM3.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 3
+  * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 3.
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG">
+</p>
     
   * ./Imagenes/: 
     * Almacena los archivos de imágenes del proyecto, los cuales se visualizan a lo largo de esta documentación.
@@ -137,42 +153,60 @@
   
   
   * Ejecución de Ejemplo 1:
-  
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JPG">
+</p>
   
   ```bash
   node Start.ExampleBPM1.js
   ```
   
   * Resultado de la Ejecución Proceso 1:
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process1.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process1.JPG">
+</p>
     
     
   * Ejecución de Ejemplo 2:
-  
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG">
+</p>
   
   ```bash
   node Start.ExampleBPM2.js
   ```
   
   * Resultado de la Ejecución Proceso 2 - Flujo 1 [NO]:
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process2-Flow1.JPG</center>
+
+<p align="center">
+  <img src=">https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process2-Flow1.JPG">
+</p>
     
     
   * Ejecución de Ejemplo 3:
-  
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG">
+</p>
   
   ```bash
     node Start.ExampleBPM3.js
   ```
     
   * Resultado de la Ejecución Proceso 3 - Flujo 1 [SI]:
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process3-Flow1.JPG</center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process3-Flow1.JPG">
+</p>
     
   * Resultado de la Ejecución Proceso 3 - Flujo 2 [NO]:
-<center>https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process3-Flow2.JPG<center>
+
+<p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/004-Execute-Example-Process3-Flow2.JPG">
+</p>
     
 -------------------------------------------
     
