@@ -75,7 +75,7 @@ Proyecto NodeJS que se compone de
 
  * #### Imágenes:
  
- ![001-Instalacion BPMN.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/001-Instalacion BPMN.JPG)
+ ![001-InstalacionBPMN.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/001-InstalacionBPMN.JPG)
  
  ![002-BizagiModelerVersion.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModelerVersion.JPG)
  
