@@ -134,6 +134,10 @@
   Contiene los modelos de los distintos procesos de negocio y su controlador correspondiente a cada modelo.
 
 <p align="center">
+  <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-ExportModel.JPG">
+</p>
+
+<p align="center">
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test-Test.Bpm.Process.JPG">
 </p>
     
