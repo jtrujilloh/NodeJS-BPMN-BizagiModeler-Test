@@ -98,6 +98,8 @@
     
     ![002-BizagiModel-01.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-01.JPG)
     
+    ![002-BizagiModel-02.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-02.JPG)
+    
   * ./BPM.Test/: Contiene el proyecto, ejecutables, modelos de procesos y controladores de cada modelo.
     * Start.ExampleBPM1.js: Ejecutable para el proceso del ejemplo 1.
     * Start.ExampleBPM2.js: Ejecutable para el proceso del ejemplo 2.
@@ -112,17 +114,17 @@
     * exampleBPM1.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 1
     * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 1.
     
-    ![003-BizagiModeler-Ejemplo1.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JPG)
+![003-BizagiModeler-Ejemplo1.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JPG)
     
     * exampleBPM2.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 2
     * exampleBPM2.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 2.
     
-    ![003-BizagiModeler-Ejemplo2.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG)
+![003-BizagiModeler-Ejemplo2.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG)
     
     * exampleBPM3.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 3
     * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 3.
     
-    ![003-BizagiModeler-Ejemplo3.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG)
+![003-BizagiModeler-Ejemplo3.JPG](https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG)
     
   * ./Imagenes/: 
     * Almacena los archivos de imágenes del proyecto, los cuales se visualizan a lo largo de esta documentación.
