@@ -1,0 +1,14 @@
+{
+  "name": "bpm.test",
+  "version": "1.0.0",
+  "description": "Prueba de ejecucion de procesos de negocio",
+  "main": "bpmn.start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Alfredo Trujillo Hidalgo",
+  "license": "MIT",
+  "dependencies": {
+    "bpmn": "^0.2.2"
+  }
+}
