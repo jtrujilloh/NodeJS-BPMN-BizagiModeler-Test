@@ -14,7 +14,7 @@ bpmn.createUnmanagedCollaboratingProcesses(__dirname + "/Test.Bpm.Process/exampl
 		// iniciamos el primer proceso
 			
 		let dataInput = {
-			numero1: 3,
+			numero1: 4,
 			numero2: 6
 		};
 		

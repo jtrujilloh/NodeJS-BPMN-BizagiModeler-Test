@@ -10,8 +10,14 @@ bpmn.createUnmanagedProcess(__dirname + "/Test.Bpm.Process/exampleBPM1.bpmn", fu
 	} else {
 		console.log("[BPM-PROCESS]: Iniciando Proceso ...");
 		console.log();
+		
+		let dataInput = {
+			numero1: 1,
+			numero2: 1
+		};
+	
 		// Iniciamos el Proceso, disparando el evento de "Inicio" definido en el Modelo del Proceso
-		jobTest.triggerEvent("Inicio");
+		jobTest.triggerEvent("Inicio", dataInput);
 	}
     
 
