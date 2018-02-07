@@ -103,7 +103,7 @@
    
    Contiene el archivo creado con el modelador de procesos Bizagi.
    
-    * Procesos de Negocio - Ejemplos - v1.0.0.bpm: Archivo creado con Bizagi Modeler.
+  * **Procesos de Negocio - Ejemplos - v1.0.0.bpm:** Archivo creado con Bizagi Modeler.
 
 <p align="center">
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/002-BizagiModel-01.JPG">
@@ -119,9 +119,9 @@
   
   Contiene el proyecto, ejecutables, modelos de procesos y controladores de cada modelo.
   
-    * Start.ExampleBPM1.js: Ejecutable para el proceso del ejemplo 1.
-    * Start.ExampleBPM2.js: Ejecutable para el proceso del ejemplo 2.
-    * Start.ExampleBPM3.js: Ejecutable para el proceso del ejemplo 3.
+  * **Start.ExampleBPM1.js:** Ejecutable para el proceso del ejemplo 1.
+  * **Start.ExampleBPM2.js:** Ejecutable para el proceso del ejemplo 2.
+  * **Start.ExampleBPM3.js:** Ejecutable para el proceso del ejemplo 3.
 
 <p align="center">
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test.JPG">
@@ -137,22 +137,22 @@
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-Directory-BPM.Test-Test.Bpm.Process.JPG">
 </p>
     
-  * exampleBPM1.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 1
-  * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 1.
+  * **exampleBPM1.bpmn:** Corresponde al Modelo del Proceso de Negocio del Ejemplo 1
+  * **exampleBPM1.js:** Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 1.
 
 <p align="center">
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo1.JPG">
 </p>
     
-  * exampleBPM2.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 2
-  * exampleBPM2.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 2.
+  * **exampleBPM2.bpmn:** Corresponde al Modelo del Proceso de Negocio del Ejemplo 2
+  * **exampleBPM2.js:** Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 2.
 
 <p align="center">
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo2.JPG">
 </p>
     
-  * exampleBPM3.bpmn: Corresponde al Modelo del Proceso de Negocio del Ejemplo 3
-  * exampleBPM1.js: Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 3.
+  * **exampleBPM3.bpmn:** Corresponde al Modelo del Proceso de Negocio del Ejemplo 3
+  * **exampleBPM3.js:** Corresponde al Controlador del Modelo, el cual contiene cada método relacionado a cada Actividad o Condición definida en el modelo para el ejemplo 3.
 
 <p align="center">
   <img src="https://github.com/jtrujilloh/NodeJS-BPMN-BizagiModeler-Test/blob/master/Imagenes/003-BizagiModeler-Ejemplo3.JPG">
