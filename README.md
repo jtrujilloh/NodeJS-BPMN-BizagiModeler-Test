@@ -34,11 +34,11 @@
   
   El resultado entregado por un proceso puede ser el que estimes conveniente (todo viaja en formato de objeto), y puede ser interpretado ya sea en una salida web, o bien, una respuesta de una api rest, todo dependerá de lo que requiera tu implementación y desarrollo...
   
-  También es posible desarrollar integraciones de sistemas.
+  Si!, también es posible desarrollar soluciones de transformación de datos e integraciones de sistemas al estilo de los ETL (ETL son las siglas en inglés de Extraer, Transformar y Cargar (Extract, Transform and Load)) de las soluciones de BI (business intelligence), con posibilidades de ejecución recurrente mediante Trabajos o Jobs Schedules en segundo plano programables!
   
-  Al mismo tiempo que documentas tu desarrollo en los diferentes procesos de negocio que tienes en mente, construyes el proyecto... Sin hacer nada más que comenzar a trabajar con lo que nos aporta este tipo de implementaciones.
+  Al mismo tiempo que documentas tu desarrollo en los diferentes procesos de negocio que tienes en mente, construyes el proyecto... Sin hacer nada más que comenzar a trabajar con lo que nos aporta este tipo de implementaciones gracias a su construcción visual e intuitiva.
   
-  En el próximo repositorio se desarrollará una aplicación CRUD mediante API REST y MongoDB, donde cada operación de servicio, se expresa y construye mediante el Modelado de un Proceso de Negocio.
+  En un próximo repositorio, se desarrollará y entregará públicamente una aplicación CRUD mediante API REST y MongoDB, donde cada operación de servicio se exprese y construya mediante el Modelado de un Proceso de Negocio, además de integrar trabajos o jobs programables para tareas en segundo plano.
   
 -------------------------------------------
 
@@ -82,7 +82,7 @@
 
 * ### Composición del Proyecto: 
 
-* El proyecto está compuesto por lo siguiente:
+* El proyecto está compuesto por los siguientes elementos:
 
   * Ejecutables independientes para cada ejemplo. 
   * Procesos de Negocio.
